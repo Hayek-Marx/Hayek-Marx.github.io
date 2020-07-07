@@ -9,7 +9,5 @@ catalog: true
 tags:
     -New
 ---
-Hello,I'm Ridger
-你好
-#233
-> 黑夜给了我黑色的眼睛
+# Hello
+## Hello
